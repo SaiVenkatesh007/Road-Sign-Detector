@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 
 
-* The dataset used to test the model is made by **Andrewmvd**
+* The dataset used to test the model is made by **Andrewmvd** (The images have been taken from there)
 
 [https://www.kaggle.com/datasets/andrewmvd/road-sign-detection]()
 
